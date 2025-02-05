@@ -18,4 +18,4 @@ Mentor: NEELA SANTHOSH KUMAR
 UNIT (ALU)
 
 ### Output: 
-![output]()
+![output](https://github.com/yesupogupapaiah/ARITHMETIC-LOGIC-UNIT-ALU-/blob/main/task1.png)
